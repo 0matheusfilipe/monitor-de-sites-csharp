@@ -15,9 +15,9 @@ Este é um programa em C# para monitorar a disponibilidade de sites. Ele permite
 
 ## Instalação
 1. Clone este repositório:
-git clone https://github.com/seu-usuario/monitor-de-sites.git
+git clone https://github.com/seu-usuario/monitor-de-sites-csharp.git
 2. Navegue até o diretório do projeto:
-cd monitor-de-sites
+cd monitor-de-sites-csharp
 3. Compile o projeto:
 dotnet build
 
