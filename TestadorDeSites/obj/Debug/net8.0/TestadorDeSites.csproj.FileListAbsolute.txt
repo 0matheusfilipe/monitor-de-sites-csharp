@@ -1,0 +1,14 @@
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\bin\Debug\net8.0\TestadorDeSites.exe
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\bin\Debug\net8.0\TestadorDeSites.deps.json
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\bin\Debug\net8.0\TestadorDeSites.runtimeconfig.json
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\bin\Debug\net8.0\TestadorDeSites.dll
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\bin\Debug\net8.0\TestadorDeSites.pdb
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\obj\Debug\net8.0\TestadorDeSites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\obj\Debug\net8.0\TestadorDeSites.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\obj\Debug\net8.0\TestadorDeSites.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\obj\Debug\net8.0\TestadorDeSites.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\obj\Debug\net8.0\TestadorDeSites.dll
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\obj\Debug\net8.0\refint\TestadorDeSites.dll
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\obj\Debug\net8.0\TestadorDeSites.pdb
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\obj\Debug\net8.0\TestadorDeSites.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\TestadorDeSites\TestadorDeSites\obj\Debug\net8.0\ref\TestadorDeSites.dll
